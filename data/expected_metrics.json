@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-09-26",
+  "seed": 5362026,
+  "validTransactions": 2399,
+  "netRevenue": 27831.14,
+  "grossMargin": 9544.14,
+  "naivePromotionRevenue": 36424.9,
+  "overstatement": 8593.76,
+  "rejectedRows": 7,
+  "controlledIssueTypes": 6,
+  "bridgeRows": 43
+}
