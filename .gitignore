@@ -1,0 +1,5 @@
+node_modules/
+*.pbix
+*.inspect.ndjson
+~$*.xlsx
+.DS_Store
