@@ -1,0 +1,46 @@
+Net Revenue :=
+SUMX (
+    FactSales,
+    FactSales[Quantity] * FactSales[UnitPrice] - FactSales[DiscountAmount]
+)
+
+Orders := DISTINCTCOUNT ( FactSales[TransactionID] )
+
+Units Sold := SUM ( FactSales[Quantity] )
+
+Gross Margin := [Net Revenue] - SUM ( FactSales[CostAmount] )
+
+Gross Margin % := DIVIDE ( [Gross Margin], [Net Revenue] )
+
+Average Order Value := DIVIDE ( [Net Revenue], [Orders] )
+
+Return Rate := DIVIDE ( CALCULATE ( [Orders], FactSales[Returned] = 1 ), [Orders] )
+
+Promotion Reach Revenue :=
+VAR SelectedProducts =
+    CALCULATETABLE (
+        VALUES ( BridgeProductPromotion[ProductID] ),
+        TREATAS ( VALUES ( DimPromotion[PromotionID] ), BridgeProductPromotion[PromotionID] )
+    )
+RETURN
+    CALCULATE ( [Net Revenue], TREATAS ( SelectedProducts, DimProduct[ProductID] ) )
+
+Allocated Promotion Revenue :=
+SUMX (
+    BridgeProductPromotion,
+    VAR ProductKey = BridgeProductPromotion[ProductID]
+    VAR Weight = BridgeProductPromotion[AllocationWeight]
+    RETURN
+        Weight * CALCULATE ( [Net Revenue], TREATAS ( { ProductKey }, DimProduct[ProductID] ) )
+)
+
+Direct Join Revenue (Wrong by Design) :=
+SUMX (
+    BridgeProductPromotion,
+    VAR ProductKey = BridgeProductPromotion[ProductID]
+    RETURN CALCULATE ( [Net Revenue], TREATAS ( { ProductKey }, DimProduct[ProductID] ) )
+)
+
+Direct Join Overstatement := [Direct Join Revenue (Wrong by Design)] - [Net Revenue]
+
+Allocation Reconciliation := [Allocated Promotion Revenue] - [Net Revenue]
