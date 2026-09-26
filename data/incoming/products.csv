@@ -1,0 +1,31 @@
+ProductID;ProductName;Category;BasePrice
+P001;Beverages Item 01;Beverages;1.35
+P002;Bakery Item 02;Bakery;2.0700000000000003
+P003;Dairy Item 03;Dairy;2.79
+P004;Snacks Item 04;Snacks;3.5100000000000002
+P005;Household Item 05;Household;4.23
+P006;Personal Care Item 06;Personal Care;4.949999999999999
+P007;Beverages Item 07;Beverages;5.67
+P008;Bakery Item 08;Bakery;6.390000000000001
+P009;Dairy Item 09;Dairy;7.109999999999999
+P010;Snacks Item 10;Snacks;1.35
+P011;Household Item 11;Household;2.0700000000000003
+P012;Personal Care Item 12;Personal Care;2.79
+P013;Beverages Item 13;Beverages;3.5100000000000002
+P014;Bakery Item 14;Bakery;4.23
+P015;Dairy Item 15;Dairy;4.949999999999999
+P016;Snacks Item 16;Snacks;5.67
+P017;Household Item 17;Household;6.390000000000001
+P018;Personal Care Item 18;Personal Care;7.109999999999999
+P019;Beverages Item 19;Beverages;1.35
+P020;Bakery Item 20;Bakery;2.0700000000000003
+P021;Dairy Item 21;Dairy;2.79
+P022;Snacks Item 22;Snacks;3.5100000000000002
+P023;Household Item 23;Household;4.23
+P024;Personal Care Item 24;Personal Care;4.949999999999999
+P025;Beverages Item 25;Beverages;5.67
+P026;Bakery Item 26;Bakery;6.390000000000001
+P027;Dairy Item 27;Dairy;7.109999999999999
+P028;Snacks Item 28;Snacks;1.35
+P029;Household Item 29;Household;2.0700000000000003
+P030;Personal Care Item 30;Personal Care;2.79

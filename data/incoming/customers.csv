@@ -1,0 +1,241 @@
+CustomerID;Segment;HomeCity
+C0001;Convenience;Novi Sad
+C0002;Convenience;Novi Sad
+C0003;Premium;Kragujevac
+C0004;Value;Kragujevac
+C0005;Convenience;Subotica
+C0006;Family;Novi Sad
+C0007;Premium;Kragujevac
+C0008;Family;Novi Sad
+C0009;Family;Kragujevac
+C0010;Family;Subotica
+C0011;Premium;Nis
+C0012;Family;Belgrade
+C0013;Family;Subotica
+C0014;Premium;Kragujevac
+C0015;Convenience;Belgrade
+C0016;Value;Subotica
+C0017;Family;Nis
+C0018;Family;Belgrade
+C0019;Family;Belgrade
+C0020;Value;Novi Sad
+C0021;Premium;Novi Sad
+C0022;Premium;Subotica
+C0023;Convenience;Subotica
+C0024;Convenience;Nis
+C0025;Family;Subotica
+C0026;Convenience;Belgrade
+C0027;Family;Subotica
+C0028;Premium;Nis
+C0029;Convenience;Belgrade
+C0030;Value;Subotica
+C0031;Value;Belgrade
+C0032;Convenience;Belgrade
+C0033;Convenience;Kragujevac
+C0034;Value;Novi Sad
+C0035;Family;Nis
+C0036;Value;Kragujevac
+C0037;Premium;Novi Sad
+C0038;Family;Belgrade
+C0039;Convenience;Kragujevac
+C0040;Premium;Nis
+C0041;Family;Kragujevac
+C0042;Premium;Novi Sad
+C0043;Family;Nis
+C0044;Value;Subotica
+C0045;Family;Kragujevac
+C0046;Family;Subotica
+C0047;Convenience;Subotica
+C0048;Premium;Kragujevac
+C0049;Convenience;Novi Sad
+C0050;Value;Kragujevac
+C0051;Value;Novi Sad
+C0052;Value;Belgrade
+C0053;Value;Belgrade
+C0054;Value;Novi Sad
+C0055;Value;Belgrade
+C0056;Premium;Subotica
+C0057;Convenience;Subotica
+C0058;Convenience;Belgrade
+C0059;Family;Nis
+C0060;Family;Novi Sad
+C0061;Family;Novi Sad
+C0062;Family;Nis
+C0063;Premium;Novi Sad
+C0064;Value;Novi Sad
+C0065;Family;Belgrade
+C0066;Premium;Subotica
+C0067;Convenience;Subotica
+C0068;Premium;Novi Sad
+C0069;Convenience;Kragujevac
+C0070;Convenience;Subotica
+C0071;Value;Subotica
+C0072;Family;Subotica
+C0073;Convenience;Novi Sad
+C0074;Value;Belgrade
+C0075;Family;Subotica
+C0076;Premium;Novi Sad
+C0077;Value;Kragujevac
+C0078;Premium;Nis
+C0079;Convenience;Novi Sad
+C0080;Convenience;Belgrade
+C0081;Convenience;Subotica
+C0082;Family;Novi Sad
+C0083;Family;Novi Sad
+C0084;Convenience;Kragujevac
+C0085;Premium;Kragujevac
+C0086;Value;Belgrade
+C0087;Family;Novi Sad
+C0088;Family;Subotica
+C0089;Premium;Nis
+C0090;Family;Belgrade
+C0091;Value;Nis
+C0092;Premium;Nis
+C0093;Convenience;Nis
+C0094;Value;Belgrade
+C0095;Convenience;Novi Sad
+C0096;Premium;Nis
+C0097;Premium;Kragujevac
+C0098;Premium;Nis
+C0099;Value;Subotica
+C0100;Premium;Subotica
+C0101;Value;Nis
+C0102;Value;Kragujevac
+C0103;Premium;Belgrade
+C0104;Family;Belgrade
+C0105;Convenience;Kragujevac
+C0106;Value;Kragujevac
+C0107;Premium;Subotica
+C0108;Family;Kragujevac
+C0109;Value;Kragujevac
+C0110;Convenience;Kragujevac
+C0111;Premium;Subotica
+C0112;Family;Nis
+C0113;Premium;Novi Sad
+C0114;Family;Belgrade
+C0115;Value;Belgrade
+C0116;Convenience;Subotica
+C0117;Convenience;Belgrade
+C0118;Premium;Subotica
+C0119;Value;Novi Sad
+C0120;Family;Kragujevac
+C0121;Value;Subotica
+C0122;Family;Kragujevac
+C0123;Family;Subotica
+C0124;Family;Kragujevac
+C0125;Premium;Nis
+C0126;Premium;Belgrade
+C0127;Premium;Novi Sad
+C0128;Premium;Nis
+C0129;Convenience;Kragujevac
+C0130;Convenience;Belgrade
+C0131;Family;Belgrade
+C0132;Value;Nis
+C0133;Premium;Kragujevac
+C0134;Value;Novi Sad
+C0135;Value;Subotica
+C0136;Premium;Nis
+C0137;Premium;Subotica
+C0138;Premium;Subotica
+C0139;Premium;Kragujevac
+C0140;Family;Kragujevac
+C0141;Family;Novi Sad
+C0142;Premium;Kragujevac
+C0143;Family;Kragujevac
+C0144;Family;Novi Sad
+C0145;Convenience;Subotica
+C0146;Convenience;Subotica
+C0147;Value;Kragujevac
+C0148;Family;Kragujevac
+C0149;Family;Subotica
+C0150;Value;Novi Sad
+C0151;Premium;Subotica
+C0152;Value;Novi Sad
+C0153;Premium;Novi Sad
+C0154;Value;Subotica
+C0155;Family;Nis
+C0156;Value;Novi Sad
+C0157;Family;Subotica
+C0158;Family;Nis
+C0159;Value;Belgrade
+C0160;Convenience;Nis
+C0161;Convenience;Nis
+C0162;Value;Novi Sad
+C0163;Convenience;Belgrade
+C0164;Convenience;Subotica
+C0165;Family;Subotica
+C0166;Family;Kragujevac
+C0167;Premium;Subotica
+C0168;Premium;Nis
+C0169;Premium;Kragujevac
+C0170;Convenience;Subotica
+C0171;Convenience;Novi Sad
+C0172;Premium;Novi Sad
+C0173;Convenience;Subotica
+C0174;Premium;Subotica
+C0175;Family;Belgrade
+C0176;Premium;Nis
+C0177;Premium;Novi Sad
+C0178;Premium;Novi Sad
+C0179;Premium;Subotica
+C0180;Value;Belgrade
+C0181;Family;Subotica
+C0182;Family;Kragujevac
+C0183;Family;Belgrade
+C0184;Family;Nis
+C0185;Premium;Subotica
+C0186;Family;Kragujevac
+C0187;Convenience;Kragujevac
+C0188;Value;Kragujevac
+C0189;Value;Subotica
+C0190;Convenience;Novi Sad
+C0191;Premium;Novi Sad
+C0192;Value;Subotica
+C0193;Family;Belgrade
+C0194;Value;Nis
+C0195;Convenience;Novi Sad
+C0196;Premium;Subotica
+C0197;Family;Subotica
+C0198;Family;Nis
+C0199;Premium;Nis
+C0200;Convenience;Belgrade
+C0201;Value;Belgrade
+C0202;Family;Subotica
+C0203;Premium;Kragujevac
+C0204;Convenience;Belgrade
+C0205;Value;Belgrade
+C0206;Family;Subotica
+C0207;Convenience;Novi Sad
+C0208;Premium;Belgrade
+C0209;Convenience;Subotica
+C0210;Value;Kragujevac
+C0211;Value;Kragujevac
+C0212;Value;Kragujevac
+C0213;Premium;Nis
+C0214;Family;Nis
+C0215;Value;Subotica
+C0216;Family;Novi Sad
+C0217;Convenience;Kragujevac
+C0218;Convenience;Subotica
+C0219;Premium;Kragujevac
+C0220;Premium;Subotica
+C0221;Convenience;Belgrade
+C0222;Value;Subotica
+C0223;Convenience;Belgrade
+C0224;Convenience;Novi Sad
+C0225;Value;Nis
+C0226;Convenience;Novi Sad
+C0227;Premium;Nis
+C0228;Convenience;Novi Sad
+C0229;Convenience;Belgrade
+C0230;Convenience;Novi Sad
+C0231;Premium;Novi Sad
+C0232;Premium;Subotica
+C0233;Value;Novi Sad
+C0234;Premium;Nis
+C0235;Premium;Subotica
+C0236;Family;Novi Sad
+C0237;Premium;Belgrade
+C0238;Convenience;Belgrade
+C0239;Value;Belgrade
+C0240;Family;Belgrade
